@@ -1,6 +1,6 @@
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,java,js,html,nodejs,docker,grafana,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,java,js,html,nodejs,docker,grafana,mysql,postman)](https://skillicons.dev)
 
 ## Currently learning
 
