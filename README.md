@@ -4,7 +4,7 @@
 
 ## Currently learning
 
-[![Learning](https://skillicons.dev/icons?i=py,ai,opencv,css,haskell,nginx,ps)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=py,opencv,ai,css,haskell,nginx,ps)](https://skillicons.dev)
 
 ## Want to learn
 
