@@ -8,4 +8,4 @@
 
 ## Want to learn
 
-[![Future](https://skillicons.dev/icons?i=linux,ts,git,css)](https://skillicons.dev)
+[![Future](https://skillicons.dev/icons?i=linux,ts)](https://skillicons.dev)
