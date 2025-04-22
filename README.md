@@ -4,8 +4,4 @@
 
 ## Currently learning
 
-[![Learning](https://skillicons.dev/icons?i=py,opencv,ai,haskell,nginx,ps)](https://skillicons.dev)
-
-## Want to learn
-
-[![Future](https://skillicons.dev/icons?i=linux,ts)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=py,opencv,ai,haskell,nginx,ps,linux)](https://skillicons.dev)
